@@ -9,7 +9,7 @@ function Ft = etm(ins)
 
 % Copyright(c) 2009-2014, by Gongmin Yan, All rights reserved.
 % Northwestern Polytechnical University, Xi An, P.R.China
-% 27/08/2011, 02/02/2015
+% 27/08/2011, 02/02/2013
 	tl = ins.eth.tl; secl = 1/ins.eth.cl;
     f_RMh = 1/ins.eth.RMh; f_RNh = 1/ins.eth.RNh; f_clRNh = 1/ins.eth.clRNh;
     f_RMh2 = f_RMh*f_RMh;  f_RNh2 = f_RNh*f_RNh;
